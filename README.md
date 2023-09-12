@@ -11,12 +11,12 @@
 
 **Installation**
 
-Click ```Windows + R``` On Your Keyboard
+> Click ```Windows + R``` On Your Keyboard
 
-This Will Open A Dialog Box, Now In The Dialog Box Type In:
+> This Will Open A Dialog Box, Now In The Dialog Box Type In:
 ```%AppData%\.minecraft```
-You then need to open the mods folder.
+> You then need to open the mods folder.
 
-Once the mods folder is open, move all of the optimization mods into there from your downloads folder.
+> Once the mods folder is open, move all of the optimization mods into there from your downloads folder.
 
 **In-game Settings**
