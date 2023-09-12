@@ -20,8 +20,8 @@
 **In-game Settings**
 <br>
 <br>
-<img src="https://github.com/waitserene/MC-Settings/blob/main/MC1.png">
+<img src="https://staticg.sportskeeda.com/editor/2022/07/2f59b-16578097668435-1920.jpg">
 <br>
-<img src="https://github.com/waitserene/MC-Settings/blob/main/MC2.png">
+<img src="https://staticg.sportskeeda.com/editor/2022/07/dc482-16578100223008-1920.jpg">
 <br>
-<img src="https://github.com/waitserene/MC-Settings/blob/main/MC3.png">
+<img src="https://staticg.sportskeeda.com/editor/2022/07/d69db-16578099732097-1920.jpg">
