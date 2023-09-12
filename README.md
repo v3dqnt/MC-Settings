@@ -19,6 +19,7 @@
 
 **In-game Settings**
 <br>
+<br>
 <img src="https://github.com/waitserene/MC-Settings/blob/main/MC1.png">
 <br>
 <img src="https://github.com/waitserene/MC-Settings/blob/main/MC2.png">
