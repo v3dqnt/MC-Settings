@@ -18,6 +18,9 @@
 4. Once the mods folder is open, move all of the optimization mods into there from your downloads folder.
 
 **In-game Settings**
+<br>
 <img src="https://github.com/waitserene/MC-Settings/blob/main/MC1.png">
+<br>
 <img src="https://github.com/waitserene/MC-Settings/blob/main/MC2.png">
+<br>
 <img src="https://github.com/waitserene/MC-Settings/blob/main/MC3.png">
