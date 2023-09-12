@@ -1,1 +1,1 @@
-# MC-Settings
+# Best Settings For Minecraft
