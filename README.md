@@ -1,6 +1,7 @@
 # Minecraft Mods And Settings For Max FPS (1.20)
 
 **Things To Download**
+
 1. [Fabric](https://fabricmc.net/)
 2. [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)
 3. [Sodium](https://modrinth.com/mod/sodium)
@@ -11,9 +12,11 @@
 **Installation**
 
 Click ```Windows + R``` On Your Keyboard
+
 This Will Open A Dialog Box, Now In The Dialog Box Type In:
 ```%AppData%\.minecraft```
 You then need to open the mods folder.
+
 Once the mods folder is open, move all of the optimization mods into there from your downloads folder.
 
 **In-game Settings**
